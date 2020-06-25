@@ -11,27 +11,28 @@ label{
     padding-top:4px;
 }
 form{
-    margin-left:35px;
+    margin-left:23px;
     
 
 }
 .button{
+    margin-left:40px;
+    margin-top:26px;
     font-size:20px;
-    margin-top:25px;
-    margin-left:5em;
-    
-}
-.name{
-    
-    margin:25px
+
     
 }
 .age{
-    margin-left:10.6em;
-    ;
+    margin-left:3em;
+    margin-top:20px;
+    
+}
+.name{
+    margin-left:22px;
+    margin-top:20px;
 }
 .email{
-    margin-top:2.4em;
-    margin-left: 18px;
+    margin-left:15px;
+    margin-top:20px;
 }
 
