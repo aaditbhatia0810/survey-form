@@ -1,0 +1,37 @@
+input[type=radio]{
+    margin: 15px;
+}
+label{
+    font-size:25px;
+    margin-top:25px;
+}
+#day{
+    margin-top:19px;
+    margin-bottom: 19px;
+    padding-top:4px;
+}
+form{
+    margin-left:35px;
+    
+
+}
+.button{
+    font-size:20px;
+    margin-top:25px;
+    margin-left:5em;
+    
+}
+.name{
+    
+    margin:25px
+    
+}
+.age{
+    margin-left:10.6em;
+    ;
+}
+.email{
+    margin-top:2.4em;
+    margin-left: 18px;
+}
+
